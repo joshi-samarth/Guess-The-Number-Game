@@ -49,40 +49,5 @@ This is a simple and fun Android application where the user has to guess a rando
 <TextView android:id="@+id/resultTextView" ... />
 ```
 
-🚀 Getting Started
-Prerequisites
-Android Studio
 
-Java SDK
-
-Emulator or Android device
-
-Setup
-Clone or download this repository.
-
-Open the project in Android Studio.
-
-Build and run the app on an emulator or device.
-
-👤 Author
-Samarth Joshi
-Feel free to connect with me on LinkedIn or explore more of my projects!
-
-📃 License
-This project is licensed under the MIT License.
-
-💡 Future Improvements
-Add game restart functionality
-
-Add difficulty levels (e.g., range 1–50, 1–100)
-
-Add animations or sound effects for feedback
-
-Save high scores using SharedPreferences
-
-✅ Enjoy playing and guessing!
-
-yaml
-Copy
-Edit
 
